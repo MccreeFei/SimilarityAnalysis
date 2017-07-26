@@ -1,0 +1,10 @@
+项目/n 主要/b 内容/n ：/wp  
+ 	 本期/r 项目/n 将/d 在/p 已/d 有/vyou 实验室/n 房屋/n 修缮/vn 和/cc 基础/n 设施/n 改造/vn 基础/n 上/f ，/wd 继续/v 建设/vn 以下/f 内容/n ：/wp  
+ 	 1/m 、/wn 实验室/n 硬件/n 设备/n 采购/vn 、/wn 安装/v  
+ 按照/p 项目/n 目标/n 要求/n 和/cc 市场/n 行情/n 进行/vx 相关/vn 设备/n 采购/vn ，/wd 主要/d 包括/v 实验/vn 区/n 的/ude1 网络/n 安全/an 设备/n 、/wn 服务器/n 、/wn 存储/vn 设备/n 、/wn 终端/n 等/udeng 设备/n ，/wd 以及/cc 工作/vn 区/n 的/ude1 相关/vn 会议/n 设备/n 。/wj   	 2/m 、/wn 实验室/n 软件/n 环境/n 搭/v 建/v  
+ 按照/p 项目/n 研发/v 需求/n 和/cc 匹配/vn 要求/n 进行/vx 相关/vn 应用/vn 软件/n 的/ude1 定制/n 购买/v ，/wd 主要/d 包括/v 身份/n 认证/vn 、/wn 统一/vn 用户/n 及/cc 权限/n 管理/vn 、/wn 公文/n 处理/vn 、/wn 网上/s 审批/v 等/udeng 应用/vn 软件/n 。/wj   	 3/m 、/wn 电子/n 政务/n 工作/vn 绩效/n 评估/vn 系统/n 研发/v  
+ 按照/p 项目/n 研发/v 构想/vn 和/cc 现实/n 需求/n ，/wd 基于/p 已/d 定制/v 购买/v 的/ude1 应用/vn 软件/n ，/wd 研发/v 电子/n 政务/n 工作/vn 绩效/n 评估/vn 系统/n ，/wd 具体/ad 包括/v 电子/n 政务/n 绩效/n 信息/n 抓取/v 系统/n 、/wn 电子/n 政务/n 绩效/n 信息/n 分析/vn 系统/n 和/cc 电子/n 政务/n 绩效/n 结果/n 诊断/vn 系统/n 等/udeng 。/wj   	 本期/r 项目/n 将/d 在/p 已/d 有/vyou 实验室/n 房屋/n 修缮/vn 和/cc 基础/n 设施/n 改造/vn 基础/n 上/f ，/wd 继续/v 建设/vn 以下/f 内容/n ：/wp  
+ 	 1/m 、/wn 实验室/n 硬件/n 设备/n 采购/vn 、/wn 安装/v  
+ 按照/p 项目/n 目标/n 要求/n 和/cc 市场/n 行情/n 进行/vx 相关/vn 设备/n 采购/vn ，/wd 主要/d 包括/v 实验/vn 区/n 的/ude1 网络/n 安全/an 设备/n 、/wn 服务器/n 、/wn 存储/vn 设备/n 、/wn 终端/n 等/udeng 设备/n ，/wd 以及/cc 工作/vn 区/n 的/ude1 相关/vn 会议/n 设备/n 。/wj   	 2/m 、/wn 实验室/n 软件/n 环境/n 搭/v 建/v  
+ 按照/p 项目/n 研发/v 需求/n 和/cc 匹配/vn 要求/n 进行/vx 相关/vn 应用/vn 软件/n 的/ude1 定制/n 购买/v ，/wd 主要/d 包括/v 身份/n 认证/vn 、/wn 统一/vn 用户/n 及/cc 权限/n 管理/vn 、/wn 公文/n 处理/vn 、/wn 网上/s 审批/v 等/udeng 应用/vn 软件/n 。/wj   	 3/m 、/wn 电子/n 政务/n 工作/vn 绩效/n 评估/vn 系统/n 研发/v  
+ 按照/p 项目/n 研发/v 构想/vn 和/cc 现实/n 需求/n ，/wd 基于/p 已/d 定制/v 购买/v 的/ude1 应用/vn 软件/n ，/wd 研发/v 电子/n 政务/n 工作/vn 绩效/n 评估/vn 系统/n ，/wd 具体/ad 包括/v 电子/n 政务/n 绩效/n 信息/n 抓取/v 系统/n 、/wn 电子/n 政务/n 绩效/n 信息/n 分析/vn 系统/n 和/cc 电子/n 政务/n 绩效/n 结果/n 诊断/vn 系统/n 等/udeng 。/wj   
